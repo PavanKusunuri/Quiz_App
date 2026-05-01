@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-> Run locally with `npm run dev` — see [Getting Started](#getting-started) below.
+🔗 **[https://pavankusunuri.github.io/Quiz_App/](https://pavankusunuri.github.io/Quiz_App/)**
 
 ---
 
