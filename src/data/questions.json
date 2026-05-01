@@ -1,0 +1,187 @@
+[
+  {
+    "id": "hist-1",
+    "category": "History",
+    "question": "Which event marked the beginning of World War I in 1914?",
+    "options": [
+      "Assassination of Archduke Franz Ferdinand",
+      "Invasion of Poland",
+      "Russian Revolution",
+      "Treaty of Versailles"
+    ],
+    "correctAnswer": "Assassination of Archduke Franz Ferdinand"
+  },
+  {
+    "id": "hist-2",
+    "category": "History",
+    "question": "Who was the first President of independent India?",
+    "options": [
+      "Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "S. Radhakrishnan",
+      "B. R. Ambedkar"
+    ],
+    "correctAnswer": "Rajendra Prasad"
+  },
+  {
+    "id": "geo-1",
+    "category": "Geography",
+    "question": "Which is the longest river in the world?",
+    "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+    "correctAnswer": "Nile"
+  },
+  {
+    "id": "geo-2",
+    "category": "Geography",
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Canberra", "Melbourne", "Perth"],
+    "correctAnswer": "Canberra"
+  },
+  {
+    "id": "civ-1",
+    "category": "Civics",
+    "question": "What is the primary role of a constitution in a democracy?",
+    "options": [
+      "To define and limit government powers",
+      "To collect taxes",
+      "To appoint judges",
+      "To control media"
+    ],
+    "correctAnswer": "To define and limit government powers"
+  },
+  {
+    "id": "civ-2",
+    "category": "Civics",
+    "question": "Which body in India conducts elections for Parliament and State Legislatures?",
+    "options": [
+      "Election Commission of India",
+      "Supreme Court",
+      "Union Public Service Commission",
+      "Comptroller and Auditor General"
+    ],
+    "correctAnswer": "Election Commission of India"
+  },
+  {
+    "id": "eco-1",
+    "category": "Economics",
+    "question": "Inflation refers to:",
+    "options": [
+      "A sustained increase in general price levels",
+      "A fall in unemployment rate",
+      "A drop in stock prices",
+      "An increase in exports only"
+    ],
+    "correctAnswer": "A sustained increase in general price levels"
+  },
+  {
+    "id": "eco-2",
+    "category": "Economics",
+    "question": "What does GDP stand for?",
+    "options": [
+      "Gross Domestic Product",
+      "General Development Plan",
+      "Global Distribution Price",
+      "Gross Demand Potential"
+    ],
+    "correctAnswer": "Gross Domestic Product"
+  },
+  {
+    "id": "sci-1",
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Gd", "Go"],
+    "correctAnswer": "Au"
+  },
+  {
+    "id": "sci-2",
+    "category": "Science",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": "law-1",
+    "category": "Law",
+    "question": "In legal terms, what does \"habeas corpus\" protect?",
+    "options": [
+      "Protection against unlawful detention",
+      "Freedom of speech",
+      "Right to property",
+      "Voting rights"
+    ],
+    "correctAnswer": "Protection against unlawful detention"
+  },
+  {
+    "id": "law-2",
+    "category": "Law",
+    "question": "Which branch of government interprets laws in most democratic systems?",
+    "options": ["Judiciary", "Executive", "Legislature", "Civil Service"],
+    "correctAnswer": "Judiciary"
+  },
+  {
+    "id": "math-1",
+    "category": "Mathematics",
+    "question": "What is 15% of 200?",
+    "options": ["30", "20", "40", "25"],
+    "correctAnswer": "30"
+  },
+  {
+    "id": "math-2",
+    "category": "Mathematics",
+    "question": "If x + 7 = 19, what is x?",
+    "options": ["12", "10", "14", "11"],
+    "correctAnswer": "12"
+  },
+  {
+    "id": "eng-1",
+    "category": "English",
+    "question": "Choose the correctly spelled word:",
+    "options": ["Accommodation", "Acomodation", "Accomodation", "Acommodation"],
+    "correctAnswer": "Accommodation"
+  },
+  {
+    "id": "eng-2",
+    "category": "English",
+    "question": "Which sentence uses correct subject-verb agreement?",
+    "options": [
+      "The bouquet of roses smells lovely.",
+      "The bouquet of roses smell lovely.",
+      "The bouquets of roses smells lovely.",
+      "The bouquets of roses is lovely."
+    ],
+    "correctAnswer": "The bouquet of roses smells lovely."
+  },
+  {
+    "id": "tech-1",
+    "category": "Technology",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Primary Unit",
+      "Control Program Utility",
+      "Central Program Unit"
+    ],
+    "correctAnswer": "Central Processing Unit"
+  },
+  {
+    "id": "tech-2",
+    "category": "Technology",
+    "question": "Which protocol is commonly used to securely browse websites?",
+    "options": ["HTTPS", "FTP", "HTTP", "SMTP"],
+    "correctAnswer": "HTTPS"
+  },
+  {
+    "id": "env-1",
+    "category": "Environment",
+    "question": "Which gas contributes most to the greenhouse effect from human activities?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Argon"],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "id": "env-2",
+    "category": "Environment",
+    "question": "What is the term for species that are native to and found only in one geographic area?",
+    "options": ["Endemic", "Exotic", "Migratory", "Invasive"],
+    "correctAnswer": "Endemic"
+  }
+]
