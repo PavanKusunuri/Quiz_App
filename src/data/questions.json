@@ -24,6 +24,92 @@
     "correctAnswer": "Rajendra Prasad"
   },
   {
+    "id": "hist-3",
+    "category": "History",
+    "question": "In which year did World War II end?",
+    "options": ["1945", "1944", "1946", "1943"],
+    "correctAnswer": "1945"
+  },
+  {
+    "id": "hist-4",
+    "category": "History",
+    "question": "Who was the first Emperor of Rome?",
+    "options": ["Augustus", "Julius Caesar", "Nero", "Caligula"],
+    "correctAnswer": "Augustus"
+  },
+  {
+    "id": "hist-5",
+    "category": "History",
+    "question": "The French Revolution began in which year?",
+    "options": ["1789", "1776", "1804", "1799"],
+    "correctAnswer": "1789"
+  },
+  {
+    "id": "hist-6",
+    "category": "History",
+    "question": "Which ancient wonder was located in Alexandria, Egypt?",
+    "options": [
+      "The Lighthouse of Alexandria",
+      "The Colossus of Rhodes",
+      "The Hanging Gardens",
+      "The Statue of Zeus"
+    ],
+    "correctAnswer": "The Lighthouse of Alexandria"
+  },
+  {
+    "id": "hist-7",
+    "category": "History",
+    "question": "Who led the Cuban Revolution in 1959?",
+    "options": ["Fidel Castro", "Che Guevara", "Raul Castro", "Batista"],
+    "correctAnswer": "Fidel Castro"
+  },
+  {
+    "id": "hist-8",
+    "category": "History",
+    "question": "The Battle of Plassey (1757) was fought between the British East India Company and which ruler?",
+    "options": [
+      "Siraj ud-Daulah",
+      "Tipu Sultan",
+      "Hyder Ali",
+      "Aurangzeb"
+    ],
+    "correctAnswer": "Siraj ud-Daulah"
+  },
+  {
+    "id": "hist-9",
+    "category": "History",
+    "question": "Which treaty ended the First World War?",
+    "options": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Westphalia",
+      "Treaty of Ghent"
+    ],
+    "correctAnswer": "Treaty of Versailles"
+  },
+  {
+    "id": "hist-10",
+    "category": "History",
+    "question": "Mahatma Gandhi launched the Salt March (Dandi March) in which year?",
+    "options": ["1930", "1920", "1942", "1935"],
+    "correctAnswer": "1930"
+  },
+  {
+    "id": "hist-11",
+    "category": "History",
+    "question": "Which country was the first to grant women the right to vote nationally?",
+    "options": ["New Zealand", "Australia", "Finland", "Norway"],
+    "correctAnswer": "New Zealand"
+  },
+  {
+    "id": "hist-12",
+    "category": "History",
+    "question": "The Magna Carta was signed in which year?",
+    "options": ["1215", "1066", "1265", "1300"],
+    "correctAnswer": "1215"
+  },
+
+  {
     "id": "geo-1",
     "category": "Geography",
     "question": "Which is the longest river in the world?",
@@ -37,6 +123,82 @@
     "options": ["Sydney", "Canberra", "Melbourne", "Perth"],
     "correctAnswer": "Canberra"
   },
+  {
+    "id": "geo-3",
+    "category": "Geography",
+    "question": "Which is the largest continent by area?",
+    "options": ["Asia", "Africa", "Europe", "North America"],
+    "correctAnswer": "Asia"
+  },
+  {
+    "id": "geo-4",
+    "category": "Geography",
+    "question": "Mount Everest is located in which mountain range?",
+    "options": ["Himalayas", "Andes", "Alps", "Rockies"],
+    "correctAnswer": "Himalayas"
+  },
+  {
+    "id": "geo-5",
+    "category": "Geography",
+    "question": "The Sahara Desert is located on which continent?",
+    "options": ["Africa", "Asia", "Australia", "South America"],
+    "correctAnswer": "Africa"
+  },
+  {
+    "id": "geo-6",
+    "category": "Geography",
+    "question": "Which ocean is the largest in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  },
+  {
+    "id": "geo-7",
+    "category": "Geography",
+    "question": "What is the capital of Brazil?",
+    "options": ["Brasília", "São Paulo", "Rio de Janeiro", "Salvador"],
+    "correctAnswer": "Brasília"
+  },
+  {
+    "id": "geo-8",
+    "category": "Geography",
+    "question": "Which country has the most natural lakes in the world?",
+    "options": ["Canada", "Russia", "USA", "Finland"],
+    "correctAnswer": "Canada"
+  },
+  {
+    "id": "geo-9",
+    "category": "Geography",
+    "question": "The Amazon rainforest is primarily located in which country?",
+    "options": ["Brazil", "Peru", "Colombia", "Venezuela"],
+    "correctAnswer": "Brazil"
+  },
+  {
+    "id": "geo-10",
+    "category": "Geography",
+    "question": "Which is the smallest country in the world by area?",
+    "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+    "correctAnswer": "Vatican City"
+  },
+  {
+    "id": "geo-11",
+    "category": "Geography",
+    "question": "The Strait of Gibraltar connects the Atlantic Ocean to which sea?",
+    "options": [
+      "Mediterranean Sea",
+      "Red Sea",
+      "Black Sea",
+      "Caspian Sea"
+    ],
+    "correctAnswer": "Mediterranean Sea"
+  },
+  {
+    "id": "geo-12",
+    "category": "Geography",
+    "question": "Which country shares the longest land border with India?",
+    "options": ["Bangladesh", "China", "Pakistan", "Nepal"],
+    "correctAnswer": "Bangladesh"
+  },
+
   {
     "id": "civ-1",
     "category": "Civics",
@@ -62,6 +224,92 @@
     "correctAnswer": "Election Commission of India"
   },
   {
+    "id": "civ-3",
+    "category": "Civics",
+    "question": "Which article of the Indian Constitution abolishes untouchability?",
+    "options": ["Article 17", "Article 14", "Article 21", "Article 32"],
+    "correctAnswer": "Article 17"
+  },
+  {
+    "id": "civ-4",
+    "category": "Civics",
+    "question": "How many Fundamental Rights are guaranteed to Indian citizens?",
+    "options": ["6", "7", "9", "11"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "civ-5",
+    "category": "Civics",
+    "question": "The Preamble of the Indian Constitution declares India to be a:",
+    "options": [
+      "Sovereign, Socialist, Secular, Democratic Republic",
+      "Federal, Secular, Democratic State",
+      "Sovereign, Democratic, Theocratic Republic",
+      "Federal, Socialist, Secular State"
+    ],
+    "correctAnswer": "Sovereign, Socialist, Secular, Democratic Republic"
+  },
+  {
+    "id": "civ-6",
+    "category": "Civics",
+    "question": "In India, the minimum voting age is:",
+    "options": ["18 years", "21 years", "16 years", "20 years"],
+    "correctAnswer": "18 years"
+  },
+  {
+    "id": "civ-7",
+    "category": "Civics",
+    "question": "Which house of the Indian Parliament is also called the 'Upper House'?",
+    "options": ["Rajya Sabha", "Lok Sabha", "Vidhan Sabha", "Vidhan Parishad"],
+    "correctAnswer": "Rajya Sabha"
+  },
+  {
+    "id": "civ-8",
+    "category": "Civics",
+    "question": "Who appoints the Prime Minister of India?",
+    "options": [
+      "President of India",
+      "Speaker of Lok Sabha",
+      "Chief Election Commissioner",
+      "Supreme Court Chief Justice"
+    ],
+    "correctAnswer": "President of India"
+  },
+  {
+    "id": "civ-9",
+    "category": "Civics",
+    "question": "The Right to Education Act in India applies to children in which age group?",
+    "options": ["6–14 years", "5–16 years", "6–18 years", "3–14 years"],
+    "correctAnswer": "6–14 years"
+  },
+  {
+    "id": "civ-10",
+    "category": "Civics",
+    "question": "Which article of the Indian Constitution guarantees the Right to Life and Personal Liberty?",
+    "options": ["Article 21", "Article 14", "Article 19", "Article 32"],
+    "correctAnswer": "Article 21"
+  },
+  {
+    "id": "civ-11",
+    "category": "Civics",
+    "question": "The concept of 'separation of powers' divides government into how many branches?",
+    "options": ["3", "2", "4", "5"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": "civ-12",
+    "category": "Civics",
+    "question": "Which writ is issued by a court to produce a detained person before it?",
+    "options": [
+      "Habeas Corpus",
+      "Mandamus",
+      "Certiorari",
+      "Prohibition"
+    ],
+    "correctAnswer": "Habeas Corpus"
+  },
+
+  {
     "id": "eco-1",
     "category": "Economics",
     "question": "Inflation refers to:",
@@ -86,6 +334,117 @@
     "correctAnswer": "Gross Domestic Product"
   },
   {
+    "id": "eco-3",
+    "category": "Economics",
+    "question": "Which type of unemployment occurs when workers are between jobs?",
+    "options": [
+      "Frictional unemployment",
+      "Structural unemployment",
+      "Cyclical unemployment",
+      "Seasonal unemployment"
+    ],
+    "correctAnswer": "Frictional unemployment"
+  },
+  {
+    "id": "eco-4",
+    "category": "Economics",
+    "question": "The law of demand states that, all else equal, as price increases, quantity demanded:",
+    "options": ["Decreases", "Increases", "Stays the same", "Doubles"],
+    "correctAnswer": "Decreases"
+  },
+  {
+    "id": "eco-5",
+    "category": "Economics",
+    "question": "What is the term for a market with only one seller?",
+    "options": ["Monopoly", "Oligopoly", "Monopsony", "Duopoly"],
+    "correctAnswer": "Monopoly"
+  },
+  {
+    "id": "eco-6",
+    "category": "Economics",
+    "question": "Fiscal policy refers to government decisions about:",
+    "options": [
+      "Taxation and government spending",
+      "Interest rates and money supply",
+      "Exchange rates and trade",
+      "Employment and wages"
+    ],
+    "correctAnswer": "Taxation and government spending"
+  },
+  {
+    "id": "eco-7",
+    "category": "Economics",
+    "question": "Which organization regulates monetary policy in India?",
+    "options": [
+      "Reserve Bank of India",
+      "SEBI",
+      "Ministry of Finance",
+      "NITI Aayog"
+    ],
+    "correctAnswer": "Reserve Bank of India"
+  },
+  {
+    "id": "eco-8",
+    "category": "Economics",
+    "question": "Opportunity cost is best defined as:",
+    "options": [
+      "The value of the next best alternative foregone",
+      "The total cost of production",
+      "The profit earned from a decision",
+      "The cost of raw materials"
+    ],
+    "correctAnswer": "The value of the next best alternative foregone"
+  },
+  {
+    "id": "eco-9",
+    "category": "Economics",
+    "question": "A progressive tax system means:",
+    "options": [
+      "Higher-income earners pay a higher tax rate",
+      "Everyone pays the same tax amount",
+      "Lower-income earners pay more tax",
+      "Tax rate decreases as income rises"
+    ],
+    "correctAnswer": "Higher-income earners pay a higher tax rate"
+  },
+  {
+    "id": "eco-10",
+    "category": "Economics",
+    "question": "What does the Consumer Price Index (CPI) measure?",
+    "options": [
+      "Changes in the price level of a basket of consumer goods",
+      "Total value of goods produced in a country",
+      "Government expenditure on public services",
+      "Trade balance between countries"
+    ],
+    "correctAnswer": "Changes in the price level of a basket of consumer goods"
+  },
+  {
+    "id": "eco-11",
+    "category": "Economics",
+    "question": "In economics, 'elasticity' measures:",
+    "options": [
+      "How responsive quantity is to a change in price",
+      "How quickly prices change over time",
+      "The flexibility of a country's currency",
+      "The rate of economic growth"
+    ],
+    "correctAnswer": "How responsive quantity is to a change in price"
+  },
+  {
+    "id": "eco-12",
+    "category": "Economics",
+    "question": "Which institution provides loans to developing countries for infrastructure projects?",
+    "options": [
+      "World Bank",
+      "International Monetary Fund",
+      "World Trade Organization",
+      "Asian Development Bank"
+    ],
+    "correctAnswer": "World Bank"
+  },
+
+  {
     "id": "sci-1",
     "category": "Science",
     "question": "What is the chemical symbol for gold?",
@@ -99,6 +458,92 @@
     "options": ["Mars", "Venus", "Jupiter", "Mercury"],
     "correctAnswer": "Mars"
   },
+  {
+    "id": "sci-3",
+    "category": "Science",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Mitochondria", "Nucleus", "Ribosome", "Chloroplast"],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "id": "sci-4",
+    "category": "Science",
+    "question": "The speed of light in a vacuum is approximately:",
+    "options": [
+      "3 × 10⁸ m/s",
+      "3 × 10⁶ m/s",
+      "3 × 10¹⁰ m/s",
+      "3 × 10⁴ m/s"
+    ],
+    "correctAnswer": "3 × 10⁸ m/s"
+  },
+  {
+    "id": "sci-5",
+    "category": "Science",
+    "question": "Which gas is essential for human respiration?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "id": "sci-6",
+    "category": "Science",
+    "question": "What is the atomic number of carbon?",
+    "options": ["6", "12", "8", "14"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "sci-7",
+    "category": "Science",
+    "question": "Which scientist formulated the theory of general relativity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Niels Bohr",
+      "Max Planck"
+    ],
+    "correctAnswer": "Albert Einstein"
+  },
+  {
+    "id": "sci-8",
+    "category": "Science",
+    "question": "What process do plants use to convert sunlight into food?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "id": "sci-9",
+    "category": "Science",
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Pancreas", "Liver", "Kidney", "Spleen"],
+    "correctAnswer": "Pancreas"
+  },
+  {
+    "id": "sci-10",
+    "category": "Science",
+    "question": "What is the most abundant element in the Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Argon", "Carbon dioxide"],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "id": "sci-11",
+    "category": "Science",
+    "question": "Newton's first law of motion is also known as the law of:",
+    "options": ["Inertia", "Acceleration", "Gravitation", "Conservation"],
+    "correctAnswer": "Inertia"
+  },
+  {
+    "id": "sci-12",
+    "category": "Science",
+    "question": "The pH of pure water at 25°C is:",
+    "options": ["7", "6", "8", "14"],
+    "correctAnswer": "7"
+  },
+
   {
     "id": "law-1",
     "category": "Law",
@@ -119,6 +564,107 @@
     "correctAnswer": "Judiciary"
   },
   {
+    "id": "law-3",
+    "category": "Law",
+    "question": "The burden of proof in a criminal case typically lies with the:",
+    "options": ["Prosecution", "Defence", "Judge", "Jury"],
+    "correctAnswer": "Prosecution"
+  },
+  {
+    "id": "law-4",
+    "category": "Law",
+    "question": "What does the term 'sub judice' mean?",
+    "options": [
+      "A matter currently being considered by a court",
+      "A case that has been dismissed",
+      "Evidence submitted after the verdict",
+      "A plea of not guilty"
+    ],
+    "correctAnswer": "A matter currently being considered by a court"
+  },
+  {
+    "id": "law-5",
+    "category": "Law",
+    "question": "Which principle states that no person should be tried twice for the same offence?",
+    "options": [
+      "Double jeopardy",
+      "Res judicata",
+      "Due process",
+      "Stare decisis"
+    ],
+    "correctAnswer": "Double jeopardy"
+  },
+  {
+    "id": "law-6",
+    "category": "Law",
+    "question": "The Indian Penal Code (IPC) was enacted in:",
+    "options": ["1860", "1947", "1872", "1908"],
+    "correctAnswer": "1860"
+  },
+  {
+    "id": "law-7",
+    "category": "Law",
+    "question": "A contract is legally valid only if it has:",
+    "options": [
+      "Offer, acceptance, and consideration",
+      "Only an offer and acceptance",
+      "Written documentation only",
+      "Government approval"
+    ],
+    "correctAnswer": "Offer, acceptance, and consideration"
+  },
+  {
+    "id": "law-8",
+    "category": "Law",
+    "question": "In India, the age of criminal responsibility is:",
+    "options": ["7 years", "10 years", "12 years", "14 years"],
+    "correctAnswer": "7 years"
+  },
+  {
+    "id": "law-9",
+    "category": "Law",
+    "question": "An FIR stands for:",
+    "options": [
+      "First Information Report",
+      "Final Investigation Record",
+      "Formal Inquiry Register",
+      "Federal Investigation Report"
+    ],
+    "correctAnswer": "First Information Report"
+  },
+  {
+    "id": "law-10",
+    "category": "Law",
+    "question": "The doctrine of 'stare decisis' means courts should:",
+    "options": [
+      "Follow precedents set by earlier decisions",
+      "Ignore previous judgements",
+      "Refer all cases to a higher court",
+      "Apply only written statutes"
+    ],
+    "correctAnswer": "Follow precedents set by earlier decisions"
+  },
+  {
+    "id": "law-11",
+    "category": "Law",
+    "question": "Which article of the Indian Constitution provides the right to constitutional remedies?",
+    "options": ["Article 32", "Article 21", "Article 14", "Article 19"],
+    "correctAnswer": "Article 32"
+  },
+  {
+    "id": "law-12",
+    "category": "Law",
+    "question": "Tort law primarily deals with:",
+    "options": [
+      "Civil wrongs and compensation",
+      "Criminal offences and punishment",
+      "Tax disputes",
+      "Property inheritance"
+    ],
+    "correctAnswer": "Civil wrongs and compensation"
+  },
+
+  {
     "id": "math-1",
     "category": "Mathematics",
     "question": "What is 15% of 200?",
@@ -132,6 +678,77 @@
     "options": ["12", "10", "14", "11"],
     "correctAnswer": "12"
   },
+  {
+    "id": "math-3",
+    "category": "Mathematics",
+    "question": "What is the value of π (pi) to two decimal places?",
+    "options": ["3.14", "3.41", "3.12", "3.16"],
+    "correctAnswer": "3.14"
+  },
+  {
+    "id": "math-4",
+    "category": "Mathematics",
+    "question": "The square root of 144 is:",
+    "options": ["12", "14", "11", "13"],
+    "correctAnswer": "12"
+  },
+  {
+    "id": "math-5",
+    "category": "Mathematics",
+    "question": "A triangle has angles of 60° and 80°. What is the third angle?",
+    "options": ["40°", "50°", "60°", "30°"],
+    "correctAnswer": "40°"
+  },
+  {
+    "id": "math-6",
+    "category": "Mathematics",
+    "question": "What is the LCM of 4 and 6?",
+    "options": ["12", "24", "6", "18"],
+    "correctAnswer": "12"
+  },
+  {
+    "id": "math-7",
+    "category": "Mathematics",
+    "question": "If a train travels 300 km in 5 hours, what is its average speed?",
+    "options": ["60 km/h", "55 km/h", "65 km/h", "50 km/h"],
+    "correctAnswer": "60 km/h"
+  },
+  {
+    "id": "math-8",
+    "category": "Mathematics",
+    "question": "The area of a circle with radius 7 cm is (use π = 22/7):",
+    "options": ["154 cm²", "144 cm²", "132 cm²", "176 cm²"],
+    "correctAnswer": "154 cm²"
+  },
+  {
+    "id": "math-9",
+    "category": "Mathematics",
+    "question": "Simplify: 5² + 3 × 4 − 2",
+    "options": ["35", "33", "37", "30"],
+    "correctAnswer": "35"
+  },
+  {
+    "id": "math-10",
+    "category": "Mathematics",
+    "question": "What is the HCF of 18 and 24?",
+    "options": ["6", "3", "9", "12"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": "math-11",
+    "category": "Mathematics",
+    "question": "A shopkeeper buys an item for ₹80 and sells it for ₹100. What is the profit percentage?",
+    "options": ["25%", "20%", "15%", "30%"],
+    "correctAnswer": "25%"
+  },
+  {
+    "id": "math-12",
+    "category": "Mathematics",
+    "question": "Which of the following is a prime number?",
+    "options": ["29", "27", "33", "35"],
+    "correctAnswer": "29"
+  },
+
   {
     "id": "eng-1",
     "category": "English",
@@ -152,6 +769,97 @@
     "correctAnswer": "The bouquet of roses smells lovely."
   },
   {
+    "id": "eng-3",
+    "category": "English",
+    "question": "The antonym of 'benevolent' is:",
+    "options": ["Malevolent", "Generous", "Kindly", "Charitable"],
+    "correctAnswer": "Malevolent"
+  },
+  {
+    "id": "eng-4",
+    "category": "English",
+    "question": "Choose the correct passive voice of: 'She wrote the letter.'",
+    "options": [
+      "The letter was written by her.",
+      "The letter is written by her.",
+      "The letter has been written by she.",
+      "The letter wrote by her."
+    ],
+    "correctAnswer": "The letter was written by her."
+  },
+  {
+    "id": "eng-5",
+    "category": "English",
+    "question": "Which figure of speech is used in: 'The wind whispered through the trees'?",
+    "options": ["Personification", "Simile", "Metaphor", "Hyperbole"],
+    "correctAnswer": "Personification"
+  },
+  {
+    "id": "eng-6",
+    "category": "English",
+    "question": "The synonym of 'ephemeral' is:",
+    "options": ["Transient", "Permanent", "Eternal", "Durable"],
+    "correctAnswer": "Transient"
+  },
+  {
+    "id": "eng-7",
+    "category": "English",
+    "question": "Identify the correct sentence:",
+    "options": [
+      "Neither of the boys has done his homework.",
+      "Neither of the boys have done their homework.",
+      "Neither of the boys has done their homework.",
+      "Neither of the boys have done his homework."
+    ],
+    "correctAnswer": "Neither of the boys has done his homework."
+  },
+  {
+    "id": "eng-8",
+    "category": "English",
+    "question": "Choose the word that best fills the blank: 'She was ______ about the project's outcome.'",
+    "options": ["Apprehensive", "Apprehend", "Apprehension", "Apprehending"],
+    "correctAnswer": "Apprehensive"
+  },
+  {
+    "id": "eng-9",
+    "category": "English",
+    "question": "Which sentence contains a dangling modifier?",
+    "options": [
+      "Running fast, the bus was missed by John.",
+      "John missed the bus while running fast.",
+      "While running fast, John missed the bus.",
+      "John, running fast, missed the bus."
+    ],
+    "correctAnswer": "Running fast, the bus was missed by John."
+  },
+  {
+    "id": "eng-10",
+    "category": "English",
+    "question": "What is the plural of 'criterion'?",
+    "options": ["Criteria", "Criterions", "Criterias", "Criterion"],
+    "correctAnswer": "Criteria"
+  },
+  {
+    "id": "eng-11",
+    "category": "English",
+    "question": "Which word is a conjunction in the sentence: 'He worked hard, yet he failed'?",
+    "options": ["Yet", "Hard", "Worked", "Failed"],
+    "correctAnswer": "Yet"
+  },
+  {
+    "id": "eng-12",
+    "category": "English",
+    "question": "The idiom 'beat around the bush' means:",
+    "options": [
+      "Avoid coming to the main point",
+      "To work very hard",
+      "To deceive someone",
+      "To explore new territory"
+    ],
+    "correctAnswer": "Avoid coming to the main point"
+  },
+
+  {
     "id": "tech-1",
     "category": "Technology",
     "question": "What does CPU stand for?",
@@ -171,6 +879,97 @@
     "correctAnswer": "HTTPS"
   },
   {
+    "id": "tech-3",
+    "category": "Technology",
+    "question": "What does RAM stand for?",
+    "options": [
+      "Random Access Memory",
+      "Read-Only Access Memory",
+      "Rapid Application Module",
+      "Remote Access Mode"
+    ],
+    "correctAnswer": "Random Access Memory"
+  },
+  {
+    "id": "tech-4",
+    "category": "Technology",
+    "question": "Which of the following is an operating system?",
+    "options": ["Linux", "Python", "HTML", "MySQL"],
+    "correctAnswer": "Linux"
+  },
+  {
+    "id": "tech-5",
+    "category": "Technology",
+    "question": "What does 'HTML' stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "High-level Text Machine Language",
+      "HyperText Management Layer",
+      "Home Tool Markup Language"
+    ],
+    "correctAnswer": "HyperText Markup Language"
+  },
+  {
+    "id": "tech-6",
+    "category": "Technology",
+    "question": "Which data structure uses LIFO (Last In, First Out) principle?",
+    "options": ["Stack", "Queue", "Array", "Linked List"],
+    "correctAnswer": "Stack"
+  },
+  {
+    "id": "tech-7",
+    "category": "Technology",
+    "question": "A byte consists of how many bits?",
+    "options": ["8", "16", "4", "32"],
+    "correctAnswer": "8"
+  },
+  {
+    "id": "tech-8",
+    "category": "Technology",
+    "question": "Which company developed the Android operating system?",
+    "options": ["Google", "Apple", "Microsoft", "Samsung"],
+    "correctAnswer": "Google"
+  },
+  {
+    "id": "tech-9",
+    "category": "Technology",
+    "question": "What is the primary function of a firewall?",
+    "options": [
+      "To monitor and control incoming and outgoing network traffic",
+      "To speed up internet connection",
+      "To store backup files",
+      "To manage user passwords"
+    ],
+    "correctAnswer": "To monitor and control incoming and outgoing network traffic"
+  },
+  {
+    "id": "tech-10",
+    "category": "Technology",
+    "question": "Which programming language is primarily used for web page styling?",
+    "options": ["CSS", "JavaScript", "Python", "SQL"],
+    "correctAnswer": "CSS"
+  },
+  {
+    "id": "tech-11",
+    "category": "Technology",
+    "question": "What does 'URL' stand for?",
+    "options": [
+      "Uniform Resource Locator",
+      "Universal Reference Link",
+      "Unified Resource Layer",
+      "Uniform Routing Language"
+    ],
+    "correctAnswer": "Uniform Resource Locator"
+  },
+  {
+    "id": "tech-12",
+    "category": "Technology",
+    "question": "Which of the following is NOT a programming language?",
+    "options": ["HTTP", "Java", "C++", "Python"],
+    "correctAnswer": "HTTP"
+  },
+
+  {
     "id": "env-1",
     "category": "Environment",
     "question": "Which gas contributes most to the greenhouse effect from human activities?",
@@ -183,5 +982,105 @@
     "question": "What is the term for species that are native to and found only in one geographic area?",
     "options": ["Endemic", "Exotic", "Migratory", "Invasive"],
     "correctAnswer": "Endemic"
+  },
+  {
+    "id": "env-3",
+    "category": "Environment",
+    "question": "Which international agreement aims to limit global temperature rise to 1.5°C above pre-industrial levels?",
+    "options": [
+      "Paris Agreement",
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Rio Declaration"
+    ],
+    "correctAnswer": "Paris Agreement"
+  },
+  {
+    "id": "env-4",
+    "category": "Environment",
+    "question": "The ozone layer is located in which layer of the atmosphere?",
+    "options": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+    "correctAnswer": "Stratosphere"
+  },
+  {
+    "id": "env-5",
+    "category": "Environment",
+    "question": "Which is the largest carbon sink on Earth?",
+    "options": ["Oceans", "Rainforests", "Tundra", "Grasslands"],
+    "correctAnswer": "Oceans"
+  },
+  {
+    "id": "env-6",
+    "category": "Environment",
+    "question": "Eutrophication of water bodies is mainly caused by excess:",
+    "options": ["Nutrients (nitrogen and phosphorus)", "Carbon dioxide", "Heavy metals", "Salinity"],
+    "correctAnswer": "Nutrients (nitrogen and phosphorus)"
+  },
+  {
+    "id": "env-7",
+    "category": "Environment",
+    "question": "What percentage of Earth's water is freshwater?",
+    "options": ["About 3%", "About 10%", "About 25%", "About 50%"],
+    "correctAnswer": "About 3%"
+  },
+  {
+    "id": "env-8",
+    "category": "Environment",
+    "question": "Which renewable energy source harnesses energy from the Earth's internal heat?",
+    "options": [
+      "Geothermal energy",
+      "Solar energy",
+      "Wind energy",
+      "Tidal energy"
+    ],
+    "correctAnswer": "Geothermal energy"
+  },
+  {
+    "id": "env-9",
+    "category": "Environment",
+    "question": "Acid rain is primarily caused by emissions of:",
+    "options": [
+      "Sulphur dioxide and nitrogen oxides",
+      "Carbon dioxide and methane",
+      "Ozone and ammonia",
+      "Chlorine and fluorine"
+    ],
+    "correctAnswer": "Sulphur dioxide and nitrogen oxides"
+  },
+  {
+    "id": "env-10",
+    "category": "Environment",
+    "question": "The 'Red Data Book' records information about:",
+    "options": [
+      "Endangered species of plants and animals",
+      "Polluted water bodies",
+      "Deforested regions",
+      "Climate change data"
+    ],
+    "correctAnswer": "Endangered species of plants and animals"
+  },
+  {
+    "id": "env-11",
+    "category": "Environment",
+    "question": "Which gas is responsible for the depletion of the ozone layer?",
+    "options": [
+      "Chlorofluorocarbons (CFCs)",
+      "Carbon monoxide",
+      "Methane",
+      "Nitrous oxide"
+    ],
+    "correctAnswer": "Chlorofluorocarbons (CFCs)"
+  },
+  {
+    "id": "env-12",
+    "category": "Environment",
+    "question": "The 3Rs of waste management stand for:",
+    "options": [
+      "Reduce, Reuse, Recycle",
+      "Remove, Replace, Repair",
+      "Recover, Refine, Return",
+      "Reduce, Replace, Restore"
+    ],
+    "correctAnswer": "Reduce, Reuse, Recycle"
   }
 ]
